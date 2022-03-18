@@ -26,8 +26,8 @@ When I am not coding, I love reading📖, listening music🎧 and watching carto
       <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;
       <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;
       <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-     <img height="40" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://image.flaticon.com/icons/png/512/919/919825.png">&nbsp;&nbsp;&nbsp;&nbsp;
+     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img height="40" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667">&nbsp;&nbsp;&nbsp;&nbsp;
       <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg">&nbsp;&nbsp;&nbsp;&nbsp;
       <img height="40" src="https://reactnative.dev/img/header_logo.svg">&nbsp;&nbsp;&nbsp;&nbsp;
       <img height="40" src="https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png">&nbsp;&nbsp;&nbsp;&nbsp;
