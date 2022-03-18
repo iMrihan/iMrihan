@@ -32,9 +32,8 @@ When I am not coding, I love reading📖, listening music🎧 and watching carto
       <img height="40" src="https://reactnative.dev/img/header_logo.svg">&nbsp;&nbsp;&nbsp;&nbsp;
       <img height="40" src="https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png">&nbsp;&nbsp;&nbsp;&nbsp;
       <img height="40" src="https://n7.nextpng.com/sticker-png/925/447/sticker-png-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-web-application.png">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;
       <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg">
 </div>
 
 ## :white_medium_small_square: Find Me on📱 :
