@@ -25,7 +25,7 @@ When I am not coding, I love reading📖, listening music🎧 and watching carto
 <div align="center">
       <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg">&nbsp;&nbsp;&nbsp;&nbsp;
       <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/541/541509.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
      <img height="40" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png">&nbsp;&nbsp;&nbsp;&nbsp;
       <img height="40" src="https://image.flaticon.com/icons/png/512/919/919825.png">&nbsp;&nbsp;&nbsp;&nbsp;
       <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg">&nbsp;&nbsp;&nbsp;&nbsp;
