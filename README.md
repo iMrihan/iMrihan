@@ -4,7 +4,7 @@
 
 I am Mohd Rihan Khan (he/him) from Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web applications.
 
-I am skilled in HTML, CSS, Javascript, ReactJS, React Native, Redux, React Router, Node, Mongodb, Express. I am good in data structure and algorithms.
+I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, Node, Mongodb, Express. I am good in data structure and algorithms.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -43,7 +43,7 @@ When I am not coding, I love reading📖, listening music🎧 and watching carto
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/mohd-rihan-khan-6105a2173/" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin logo" width="20" height="20"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin logo" width="20" height="20"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp; 
 </div>
 
