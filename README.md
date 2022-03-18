@@ -23,8 +23,8 @@ When I am not coding, I love reading📖, listening music🎧 and watching carto
 ## :white_medium_small_square: I am Skilled in :hammer: :
 
 <div align="center">
-      <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;
       <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
      <img height="40" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png">&nbsp;&nbsp;&nbsp;&nbsp;
       <img height="40" src="https://image.flaticon.com/icons/png/512/919/919825.png">&nbsp;&nbsp;&nbsp;&nbsp;
