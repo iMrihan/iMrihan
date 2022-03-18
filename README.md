@@ -51,7 +51,7 @@ When I am not coding, I love reading📖, listening music🎧 and watching carto
 
 ## :white_medium_small_square: Want to know more about me? :speech_balloon: :
 
-You can find my work on my <a href="" target="_blank">Portfolio</a>
+You can find my work on my <a href="https://practical-cori-2d10f0.netlify.app/" target="_blank">Portfolio</a>
 
 ## :white_medium_small_square: GitHub Stats 📊 :
 
