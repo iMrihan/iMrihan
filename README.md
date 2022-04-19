@@ -39,7 +39,7 @@ When I am not coding, I love reading📖, listening music🎧 and watching carto
 
 <div>
   <a href="https://twitter.com/MohdRih06409125" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="twitter logo" width="20" height="20"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter logo" width="20" height="20"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/mohd-rihan-khan-6105a2173/" target="_blank">
