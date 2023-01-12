@@ -56,6 +56,7 @@ You can find my work on my <a href="https://portfolio-rihan.netlify.app/" target
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=iMrihan&show_icons=true&theme=radical" height="255px" width="66.75%"/>
 
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMrihan&theme=tokyonight" height="254px" width="27.5%" />
 
 </div>
